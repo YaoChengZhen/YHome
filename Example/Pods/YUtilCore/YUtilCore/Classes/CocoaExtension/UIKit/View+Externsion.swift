@@ -2,8 +2,7 @@
 //  View+Externsion.swift
 //  ShopApp
 //
-//  Created by Icy on 16/8/19.
-//  Copyright © 2016年 eme. All rights reserved.
+//  Created by bruceyao on 2021/4/25.
 //
 
 import UIKit

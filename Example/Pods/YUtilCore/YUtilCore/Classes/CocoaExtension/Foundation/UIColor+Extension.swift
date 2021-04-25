@@ -2,8 +2,7 @@
 //  UIColor+Extension.swift
 //  Floral
 //
-//  Created by ALin on 16/4/26.
-//  Copyright © 2016年 ALin. All rights reserved.
+//  Created by bruceyao on 2021/4/25.
 //
 
 import UIKit

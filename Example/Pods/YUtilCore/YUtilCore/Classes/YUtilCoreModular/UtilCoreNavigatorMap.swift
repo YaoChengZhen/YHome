@@ -2,10 +2,8 @@
 //  UtilCoreNavigatorMap.swift
 //  Pods
 //
-//  Created by eme on 2017/1/11.
+//  Created by bruceyao on 2021/4/25.
 //
-//
-
 import UIKit
 import URLNavigator
 import RxSwift

@@ -2,8 +2,7 @@
 //  MikerShop-Bridging-Header.h
 //  MikerShop
 //
-//  Created by eme on 2017/1/10.
-//  Copyright © 2017年 eme. All rights reserved.
+//  Created by bruceyao on 2021/4/25.
 //
 
 #ifndef UtilCore_Bridging_Header_h

@@ -2,8 +2,8 @@
 //  EmptyDataSource.swift
 //  EmptyList
 //
-//  Created by eme on 2020/4/27.
-//  Copyright © 2017年 Icy. All rights reserved.
+//  Created by YaoChengZhen on 04/24/2021.
+//  Copyright (c) 2021 YaoChengZhen. All rights reserved.
 //
 
 import UIKit

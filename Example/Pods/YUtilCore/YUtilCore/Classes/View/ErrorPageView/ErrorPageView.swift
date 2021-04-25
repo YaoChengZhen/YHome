@@ -2,8 +2,7 @@
 //  ErrorPageView.swift
 //  Pods
 //
-//  Created by eme on 2017/3/17.
-//
+//  Created by bruceyao on 2021/4/25.
 //
 
 import UIKit

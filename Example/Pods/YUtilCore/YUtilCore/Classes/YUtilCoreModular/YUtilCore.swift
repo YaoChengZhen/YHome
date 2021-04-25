@@ -2,8 +2,7 @@
 //  UtilCore.swift
 //  Pods
 //
-//  Created by eme on 2017/1/6.
-//
+//  Created by bruceyao on 2021/4/25.
 //
 
 import Foundation

@@ -2,8 +2,8 @@
 //  BaseVc.swift
 //  ShopApp
 //
-//  Created by eme on 16/6/8.
-//  Copyright © 2016年 eme. All rights reserved.
+//  Created by YaoChengZhen on 04/24/2021.
+//  Copyright (c) 2021 YaoChengZhen. All rights reserved.
 //
 
 import UIKit

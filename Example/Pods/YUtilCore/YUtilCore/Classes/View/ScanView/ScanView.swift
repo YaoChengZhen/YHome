@@ -2,8 +2,7 @@
 //  ScanView.swift
 //  MikerShoppingApp
 //
-//  Created by eme on 2016/11/1.
-//  Copyright © 2016年 eme. All rights reserved.
+//  Created by bruceyao on 2021/4/25.
 //
 
 import UIKit

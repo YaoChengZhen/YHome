@@ -1,8 +1,8 @@
 //
 //  ProductVCViewController.swift
 //  YHome
-//
-//  Created by bruceyao on 2021/4/24.
+//  Created by YaoChengZhen on 04/24/2021.
+//  Copyright (c) 2021 YaoChengZhen. All rights reserved.
 //
 
 import UIKit

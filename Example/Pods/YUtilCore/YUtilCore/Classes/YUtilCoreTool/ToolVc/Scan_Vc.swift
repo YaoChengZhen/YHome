@@ -2,8 +2,7 @@
 //  Scan_Vc.swift
 //  Pods
 //
-//  Created by eme on 2017/3/6.
-//
+//  Created by bruceyao on 2021/4/25.
 //
 
 /*

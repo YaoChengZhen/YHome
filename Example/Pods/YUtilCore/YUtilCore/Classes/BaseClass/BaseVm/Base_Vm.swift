@@ -2,8 +2,7 @@
 //  Base_Vm.swift
 //  Pods
 //
-//  Created by Icy on 2017/1/4.
-//
+//  Created by bruceyao on 2021/4/25.
 //
 
 import RxSwift

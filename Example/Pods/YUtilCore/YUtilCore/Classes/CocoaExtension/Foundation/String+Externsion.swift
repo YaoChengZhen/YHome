@@ -2,8 +2,7 @@
 //  String+Externsion.swift
 //  ShopApp
 //
-//  Created by eme on 16/7/18.
-//  Copyright © 2016年 eme. All rights reserved.
+//  Created by bruceyao on 2021/4/25.
 //
 
 import Foundation

@@ -2,8 +2,7 @@
 //  ImageView+Externsion.swift
 //  MikerShop
 //
-//  Created by eme on 2016/12/17.
-//  Copyright © 2016年 eme. All rights reserved.
+//  Created by bruceyao on 2021/4/25.
 //
 
 

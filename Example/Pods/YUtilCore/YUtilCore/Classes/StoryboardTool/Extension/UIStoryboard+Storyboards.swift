@@ -2,8 +2,7 @@
 //  UIStoryboard+Storyboards.swift
 //  AHStoryboard
 //
-//  Created by Andyy Hope on 19/01/2016.
-//  Copyright © 2016 Andyy Hope. All rights reserved.
+///  Created by bruceyao on 2021/4/25.
 //
 
 /*demo: let storyboard = UIStoryboard(storyboard: .News)

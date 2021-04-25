@@ -2,8 +2,8 @@
 //  Home_vc.swift
 //  Jacob
 //
-//  Created by Gckit on 2019/04/07.
-//  Copyright (c) 2019 SeongBrave. All rights reserved.
+//  Created by YaoChengZhen on 04/24/2021.
+//  Copyright (c) 2021 YaoChengZhen. All rights reserved.
 //
 
 import RxSwift
@@ -39,7 +39,7 @@ class HomeVC: Empty_TVc  {
         super.viewDidLoad()
         view.backgroundColor = .white
         for index in 0...10 {
-            let model = HomeModel.init(json: JSON.init(rawValue: ["desc": "Hello" + index.description, "pdname": "uuuuu" + index.description, "uri": index % 2 == 0 ? "productvc" : "https://www.baidu.com"])!)
+            let model = HomeModel.init(json: JSON.init(rawValue: ["desc": "Hello" + index.description, "pdname": "uuuuu" + index.description, "uri": "productvc"])!)
             home_list.append(model!)
         }
         home_tv.reloadData()

@@ -2,8 +2,7 @@
 //  EmptyDelegate.swift
 //  EmptyList
 //
-//  Created by Icy on 2020/4/27.
-//  Copyright © 2017年 Icy. All rights reserved.
+//  Created by BruceYao on 2020/4/27.
 //
 
 import UIKit

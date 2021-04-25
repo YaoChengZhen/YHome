@@ -2,8 +2,8 @@
 //  Home_tCell.swift
 //  Jacob
 //
-//  Created by Gckit on 2019/04/07.
-//  Copyright (c) 2019 SeongBrave. All rights reserved.
+//  Created by YaoChengZhen on 04/24/2021.
+//  Copyright (c) 2021 YaoChengZhen. All rights reserved.
 //
 
 import UIKit

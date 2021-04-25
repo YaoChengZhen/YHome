@@ -1,6 +1,6 @@
 {
   "name": "YHome",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Demo 首页 YHome.",
   "description": "TODO: 首页.",
   "homepage": "https://github.com/YaoChengZhen/YHome",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/YaoChengZhen/YHome.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "9.0"
@@ -21,7 +21,7 @@
   "source_files": "YHome/Classes/**/*",
   "dependencies": {
     "YDeploy": [
-      "~> 0.1.1"
+      "~> 0.1.2"
     ]
   },
   "swift_versions": "5.0",
