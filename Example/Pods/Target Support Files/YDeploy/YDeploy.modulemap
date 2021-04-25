@@ -1,0 +1,6 @@
+framework module YDeploy {
+  umbrella header "YDeploy-umbrella.h"
+
+  export *
+  module * { export * }
+}

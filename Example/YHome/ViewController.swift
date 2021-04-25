@@ -7,9 +7,17 @@
 //
 
 import UIKit
-
+import YHome
+import URLNavigator
 class ViewController: UIViewController {
-
+    let navigator = Navigator()
+    @IBAction func touchBtn(_ sender: UIButton) {
+//        let vc = Homv.init();
+        let vc = YHome.HomeModule.homeVC
+        self.navigationController?.pushViewController(vc, animated: true)
+        YHome.Home_router.initialize(navigator: navigator)
+        
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

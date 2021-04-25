@@ -1,9 +1,12 @@
+
+
 use_frameworks!
 
 platform :ios, '9.0'
 
 target 'YHome_Example' do
   pod 'YHome', :path => '../'
+  
 
   target 'YHome_Tests' do
     inherit! :search_paths

@@ -1,0 +1,6 @@
+framework module YHome {
+  umbrella header "YHome-umbrella.h"
+
+  export *
+  module * { export * }
+}

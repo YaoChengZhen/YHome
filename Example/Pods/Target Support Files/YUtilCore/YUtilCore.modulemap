@@ -1,0 +1,6 @@
+framework module YUtilCore {
+  umbrella header "YUtilCore-umbrella.h"
+
+  export *
+  module * { export * }
+}

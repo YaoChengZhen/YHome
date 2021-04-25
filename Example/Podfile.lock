@@ -1,0 +1,106 @@
+PODS:
+  - CryptoSwift (0.8.3)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Kingfisher (4.10.1)
+  - MBProgressHUD (1.1.0)
+  - MJRefresh (3.1.15.7)
+  - ModelProtocol (0.1.0):
+    - SwiftyJSON (~> 4.2.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (4.2.0)
+  - SwiftyUserDefaults (3.0.1)
+  - Toast-Swift (5.0.1)
+  - URLNavigator (2.3.0)
+  - WebViewJavascriptBridge (6.0.3)
+  - YDeploy (0.1.1):
+    - YUtilCore (~> 0.0.3)
+  - YEmptyDataView (0.1.0):
+    - RxCocoa
+    - RxSwift
+    - SnapKit
+  - YHome (0.1.0):
+    - YDeploy (~> 0.1.1)
+  - YUtilCore (0.0.3):
+    - CryptoSwift (~> 0.8.3)
+    - Kingfisher
+    - MBProgressHUD (~> 1.1.0)
+    - MJRefresh (~> 3.1.15.3)
+    - ModelProtocol
+    - NVActivityIndicatorView
+    - RxCocoa
+    - RxSwift
+    - SnapKit
+    - SwiftyUserDefaults (~> 3.0.1)
+    - Toast-Swift
+    - URLNavigator
+    - WebViewJavascriptBridge
+    - YEmptyDataView (~> 0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase (~> 2.1.4)
+  - YHome (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CryptoSwift
+    - FBSnapshotTestCase
+    - Kingfisher
+    - MBProgressHUD
+    - MJRefresh
+    - ModelProtocol
+    - NVActivityIndicatorView
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - SwiftyJSON
+    - SwiftyUserDefaults
+    - Toast-Swift
+    - URLNavigator
+    - WebViewJavascriptBridge
+    - YDeploy
+    - YEmptyDataView
+    - YUtilCore
+
+EXTERNAL SOURCES:
+  YHome:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CryptoSwift: 033efc3523865d19cc6ab6612fa17a62613b5dfa
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  ModelProtocol: e7be7d227c0ff494fcfef75a616af637f0f81f4b
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  SwiftyUserDefaults: 3d273b1739b68ada3145dc754a70ec775bc5c8be
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  URLNavigator: 2593c0e2d293732ec5c44503cf54dceba1a68085
+  WebViewJavascriptBridge: 7f5bc4d3581e672e8f32bd0f812d54bc69bb8e29
+  YDeploy: e8dc0da67c03b6db35eec993c7f2a60e8112bc3d
+  YEmptyDataView: 7a16c40a237581acd2e15c50584469384a77375b
+  YHome: 34a393bbff3ced93dc5eae0185589a321dad00b0
+  YUtilCore: d65282c0bfb5474a6c8fcff9784738f3edd6d35a
+
+PODFILE CHECKSUM: 6b41e0f56ceb802473328fe14aa377c2576bbc70
+
+COCOAPODS: 1.10.1
